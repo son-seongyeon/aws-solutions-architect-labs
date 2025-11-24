@@ -1,1 +1,1 @@
-# aws-solutions-architect-labs
+# AWS Solutions Architect Labs
